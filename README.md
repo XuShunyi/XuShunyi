@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XuShunyi
-- 👀 I’m interested in JavaScript, TypeScript, Node.js, Webpack, Vue, React, Angular, C/C++/C#, Android, iOS, React Native, uni-app, Dart/Flutter
-- 🌱 I’m currently learning Webpack, TypeScript, React Native, uni-app
-- 💞️ I’m looking to collaborate on H5, Mobile App, Game, BlockChain, Web3
+- 👀 I’m interested in JavaScript, Node.js, Vue, React, Angular, Android, iOS, React Native, Dart/Flutter
+- 🌱 I’m currently learning Vue3, Dart/Flutter, TypeScript, React Native
+- 💞️ I’m looking to collaborate on H5, Android/iOS, Game, BlockChain, Web3
 - 📫 How to reach me ezra_xu(WeChat), xushunyi0606@gmail.com(Gmail), 605625197(QQ)
 
 <!---
